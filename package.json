@@ -16,7 +16,7 @@
     "license": "ISC",
     "homepage": "https://github.com/AndcultureCode/AndcultureCode.CSharp.Extensions#readme",
     "devDependencies": {
-        "and-cli": "2.7.2",
+        "and-cli": "2.8.0",
         "prettier": "1.19.1"
     }
 }
